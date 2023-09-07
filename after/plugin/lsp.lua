@@ -6,7 +6,7 @@ lsp.ensure_installed({
   'tsserver',
   'rust_analyzer',
   'gopls',
-  'jedi-language-server',
+  'jedi_language_server',
 })
 
 
